@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Leetcode Stats](https://leetcode.com/shyamchand/)
+![](https://leetcard.jacoblin.cool/jacoblincool?cache=0)
 
 <!--
 **cottonstonne/cottonstonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

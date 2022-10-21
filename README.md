@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Leetcode Stats](https://leetcard.jacoblin.cool/shyamchand?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/shyamchand?theme=dark)<br/>
 [leetcode](https://leetcode.com/shyamchand/)
 
 <!--

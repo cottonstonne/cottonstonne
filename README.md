@@ -19,7 +19,7 @@
 ## Book Store Web App
 <h3 align="center">Created a web page using HTML n' CSS,and MYSQL as DataBase.</h3>
 
-<p align="center"><img width=50% src="https://github.com/cottonstonne/rehashedlib/blob/main/ezgif.com-gif-maker.gif?raw=true"></p>
+<p align="center"><img width=50% src="https://github.com/cottonstonne/rehashedlib/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="loading image..."></p>
 
 # LeetCode Stat's
 

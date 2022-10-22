@@ -1,25 +1,19 @@
+<h1 align="center"><i>bonjour : )</i>, I'm <b>shyam</b></h1>
+<h1 align="center">ProGrammer</h1>
+<p align="center"><img width=30% src="https://i.pinimg.com/originals/70/84/c6/7084c682f10716fcaf0469b550a92b6a.gif"></p>
+<p align="center">- 📫 How to reach me **shyamchand118@gmail.com**<p>
 
-### Hi there 👋, my name is shyam
-#### I am PROGRAMMER
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/shyam_xo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shyam_xo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shyam-chand-6b603723b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shyam-chand-6b603723b" height="30" width="40" /></a>
+<a href="https://instagram.com/shyam_vd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shyam_vd" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shyamchand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shyamchand" height="30" width="40" /></a>
+</p>
 
-Skills: C++ / LINUX / MYSQL 
-
-
-## Profile
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shyam_vd/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/shyamchand/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='40'>](https://auth.geeksforgeeks.org/user/shyamchand/practice/)  
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/shyamchand?theme=unicorn)
-<!--
-**cottonstonne/cottonstonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

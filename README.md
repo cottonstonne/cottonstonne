@@ -9,9 +9,7 @@ Skills: C++ / LINUX / MYSQL
 
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/shyamchand?theme=dark)<br/>
-[leetcode](https://leetcode.com/shyamchand/)
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/shyamchand?theme=unicorn)
 <!--
 **cottonstonne/cottonstonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

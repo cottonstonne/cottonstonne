@@ -1,6 +1,6 @@
 <h1 align="center"><i>hola!!</i>, I'm <b>shyam</b></h1>
 <h1 align="center">ProGrammer</h1>
-<p align="center"><img width=30% src="https://i.pinimg.com/originals/70/84/c6/7084c682f10716fcaf0469b550a92b6a.gif"></p>
+<p align="center"><img width=18% src="https://i.pinimg.com/originals/70/84/c6/7084c682f10716fcaf0469b550a92b6a.gif"></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

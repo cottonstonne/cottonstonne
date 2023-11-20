@@ -17,7 +17,7 @@
 # Projects
 
 ## Book Store Web App
-<a href="google.com">link text</a>
+<a href="https://cottonstonne.github.io/bookowl.github.io/">Website link</a>
 <h3 align="center">Created a web page using HTML n' CSS,and MYSQL as DataBase.</h3>
 <p align="center">"< < WebSite GIF > >"</p>
 
